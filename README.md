@@ -1,2 +1,2 @@
-# IBM-Assignment
-This is for the assignment of IBM Data Science Certificate.
+# IBM-Assignments-and-Peer-Review-Tests
+These are assignments of IBM Data Science Professional Certificate and IBM Data Analysis Professional Certificate.
